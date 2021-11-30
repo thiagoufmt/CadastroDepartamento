@@ -1,0 +1,4 @@
+C:\Users\UFMT\source\repos\WebApplicationCRUD\WebApplicationCRUD\obj\Debug\netcoreapp2.1\WebApplicationCRUD.csproj.AssemblyReference.cache
+C:\Users\UFMT\source\repos\WebApplicationCRUD\WebApplicationCRUD\obj\Debug\netcoreapp2.1\WebApplicationCRUD.AssemblyInfoInputs.cache
+C:\Users\UFMT\source\repos\WebApplicationCRUD\WebApplicationCRUD\obj\Debug\netcoreapp2.1\WebApplicationCRUD.AssemblyInfo.cs
+C:\Users\UFMT\source\repos\WebApplicationCRUD\WebApplicationCRUD\obj\Debug\netcoreapp2.1\WebApplicationCRUD.csproj.CoreCompileInputs.cache
